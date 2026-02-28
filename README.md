@@ -172,6 +172,6 @@ This project demonstrates:
 
 ## 👤 Author
 
-Senior DevOps Engineer | Cloud & Kubernetes Architect | AI Infrastructure & Security Enthusiast
+Senior DevOps Engineer | Cloud & Kubernetes Architect | AI Infrastructure & MLOps | Cybersecurity
 
 ---
